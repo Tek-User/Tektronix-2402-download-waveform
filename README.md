@@ -1,5 +1,5 @@
 # Tektronix-2402-download-waveform
-<a href="https://github.com/Tek-User/Tektronix-GPIB-Download/blob/master/TEK999.jpg"><img src="https://github.com/Tek-User/Tektronix-GPIB-Download/blob/master/TEK999.jpg" width="500px"><br/></a>
+<a href="https://github.com/Tek-User/Tektronix-2402-download-waveform/blob/master/TEK999.jpg"><img src="https://github.com/Tek-User/Tektronix-2402-download-waveform/blob/master/TEK999.jpg" width="500px"><br/></a>
 DOS software to run on a Tektronix 2402 2402A to read waveforms from the oscilloscope and save them as a SVG file type
 
 This is a Borland Turbo-C V2.x or V3.x project.  It is intended to run under DOS.  the code can easily be ported to more modern versions of C and run on other machines.
